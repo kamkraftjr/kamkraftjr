@@ -1,2 +1,2 @@
-- Hello, I’m @kamkraftjr or Alfie, i don't mind.
-- I’m interested in learning programming and cyber security
+- Hello, I’m @kamkraftjr or Alfie.
+- I’m interested in learning programming and cyber security.
