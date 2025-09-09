@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @kamkraftjr or Alfie, i don't mind.
-- 👀 I’m interested in learning web development at the moment
-- 🌱 I’m currently going through The Odin Project
-- 📫 You can reach me on discord: kamkraftjr
+- Hello, I’m @kamkraftjr or Alfie, i don't mind.
+- I’m interested in learning programming and cyber security
